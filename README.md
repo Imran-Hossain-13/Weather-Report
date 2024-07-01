@@ -1,16 +1,19 @@
-# weather
+# This app forecast weather update from API
 
-A new Flutter project.
+## This are the all screen of this app
+<hr>
 
-## Getting Started
+<h3>Welcome Screen</h3>
+<img alt="Something wrong" src="./git-image/welcome.jpg" height="400">
 
-This project is a starting point for a Flutter application.
+<h3>Choose city</h3>
+<img alt="Something wrong" src="./git-image/city.jpg" height="400">
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Home Screen 1</h3>
+<img alt="Something wrong" src="./git-image/home1.jpg" height="400">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3>Home Screen 2</h3>
+<img alt="Something wrong" src="./git-image/home2.jpg" height="400">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Detail Screen</h3>
+<img alt="Something wrong" src="./git-image/detail.jpg" height="400">
